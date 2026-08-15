@@ -1,7 +1,7 @@
 # SudokuSolverC
 Description:        
 
-    Sudoku Solver in C
+    Sudoku Solver in C/C++
 
 Files:
 
