@@ -1,5 +1,7 @@
 # SudokuSolverC
-Description:        Sudoku Solver in C
+Description:        
+
+    Sudoku Solver in C
 
 Files:
 
@@ -7,7 +9,11 @@ Files:
   
     inputFile.su            : Input file
   
-Compilation : g++ sudokusolver.c
+Compilation: 
 
-Execution   : ./a.out inputFile
+    g++ sudokusolver.c
+
+Execution:
+
+    ./a.out inputFile
 
